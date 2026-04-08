@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Ubuntu-lightgrey.svg)]()
 A multi-host bioinformatics pipeline for metagenomic viral detection and
 quantification using EM-based read assignment. Developed as part of a
-Master's Thesis in Bioinformatics at the University of Bologna.
+Master's Thesis in Molecular Biology and Genetics at Università degli studi di Pavia (Dipartamento di Biologia e Biotechnologia)/Alma mater studiorum - Università di Bologna (Dipartamento di Farmacia e Biotechnologia).
 ## How It Works
 The pipeline runs six sequential steps on paired-end or single-end Illumina data:
 
